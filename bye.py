@@ -1,2 +1,2 @@
-print("by222e")
-print("hi iiii")
+print('bye')
+#bye
