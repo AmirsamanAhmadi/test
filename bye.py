@@ -1,3 +1,4 @@
+#hELLO
 print('Bye')
 print('bye')
 #bye
@@ -5,7 +6,7 @@ print('bye')
 #add new line
 
 def newMethod():
-  print("this is a new way of doing things")
+  print("this is a new way of doing things!!!!!")
  
 newMethod()
 
